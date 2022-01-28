@@ -18,7 +18,7 @@
         android:background="@color/purple_200"
 
         android:gravity="center"
-        android:text="My Name is Arif"
+
         android:textColor="@color/white"
         android:textSize="24sp" />
     <TextView

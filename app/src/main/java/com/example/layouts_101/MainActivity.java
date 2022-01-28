@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(view.getContext(),Activity2.class);
+                i.putExtra("myName","My name is Arif Ahmed");
                 startActivity(i);
 
             }
